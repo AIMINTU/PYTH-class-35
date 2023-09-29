@@ -35,6 +35,6 @@ git commit -m "Added Git Command into the file"
 
 git push origin main
 
-# Fetch and merger changes on directory 
+# Fetch and merger changes on directory 3.Fetch and merger changes on directory 
 
 git pull origin main
